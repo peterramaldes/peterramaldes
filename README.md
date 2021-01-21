@@ -1,4 +1,4 @@
-:log: [Log](log)
+:newspaper: [Log](log)
 
 Olá, me chamo Peter.
 

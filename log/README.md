@@ -6,7 +6,5 @@ afins. Peço para não levar muito a sério isso, como diz minha esposa:
 "sua opinião muda e muito rápido". Desculpe também pelos erros
 gramaticais.
 
-Teste emoji :fire:
-
 [2021](2021)
 
