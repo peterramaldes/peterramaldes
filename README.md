@@ -27,9 +27,9 @@ surgiu na última empresa em que trabalhei
 acreditaram em mim.
 
 Quero também deixar explicito que esse repositório foi puramente
-inspirado em [rwxrob](https://github.com/rwxrob) cujo profissional
+inspirado em [rwxrob - github](https://github.com/rwxrob) cujo profissional
 considero com um grande mentor, você pode também encontrá-lo em live
-streams por aqui: [rwxrob](https://youtube.com/rwxrob)
+streams por aqui: [rwxrob - youtube](https://youtube.com/rwxrob)
 
 ## Social
 
