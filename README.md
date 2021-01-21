@@ -16,7 +16,7 @@ esforçado do que "inteligente", minhas notas nunca foram 10, beiravam a
 
 Apesar de ainda não ter me formado, me considero com uma bagagem de
 conhecimento a mais em relação aos alunos que cursavam comigo, apesar
-deles ainda ter se formado, talvez porque nunca concordei com o ensino
+deles ainda serem formados, talvez porque nunca concordei com o ensino
 padrão, sempre quis buscar o conhecimento do que a comunidade, empresas
 estavam pedindo. Mesmo assim, hoje tento me formar em outra faculdade
 [Católica Santa Catarina](https://www.catolicasc.org.br/), não porque a
@@ -27,9 +27,10 @@ surgiu na última empresa em que trabalhei
 acreditaram em mim.
 
 Quero também deixar explicito que esse repositório foi puramente
-inspirado em [rwxrob - github](https://github.com/rwxrob) cujo profissional
-considero com um grande mentor, você pode também encontrá-lo em live
-streams por aqui: [rwxrob - youtube](https://youtube.com/rwxrob)
+inspirado em [rwxrob - github](https://github.com/rwxrob) cujo
+profissional considero com um grande mentor, você pode também
+encontrá-lo em live streams por aqui: [rwxrob -
+youtube](https://youtube.com/rwxrob)
 
 ## Social
 
