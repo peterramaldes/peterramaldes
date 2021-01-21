@@ -1,4 +1,4 @@
-:log:[Log](log)
+:log: [Log](log)
 
 Olá, me chamo Peter.
 
