@@ -7,7 +7,7 @@ empresas a ganhar dinheiro, acredito que codificar é uma arte, ou seja,
 um bom codificador é tão obcecado em escrever um código elegante e limpo
 quanto um artesão. 
 
-Comecei faculdade de Sistemas de Informação na [UVV][https://uvv.br/] em
+Comecei faculdade de Sistemas de Informação na [UVV](https://uvv.br/) em
 2015, nos primeiros períodos onde começaram as aulas de Programação 1/2
 eu tive muita, mas muita dificuldade de entender algumas coisas, mas fui
 persistente. Não tenho facilidade em aprender algumas coisas, sou mais
