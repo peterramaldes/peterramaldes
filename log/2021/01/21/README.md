@@ -11,8 +11,8 @@ procrastinar menos jogando então vou tentar em momentos que faria isso
 (normalmente na parte da noite) dormir.
 
 Devo nos horários livres trabalhar em alguns projetos:
-1. [Profile](https://github.com/peterramaldes/peterramaldes)
 1. Faculdade
+1. [Profile](https://github.com/peterramaldes/peterramaldes)
 1. [WTF](https://github.com/peterramaldes/wtf)
 
 Nessa ordem de prioridades.
