@@ -10,7 +10,7 @@ Outra coisa que estou querendo para 2021 é criar algumas regras, quero
 procrastinar menos jogando então vou tentar em momentos que faria isso
 (normalmente na parte da noite) dormir.
 
-Devo nesses horários da madrugada trabalhar em alguns projetos:
+Devo nos horários livres trabalhar em alguns projetos:
 1. [Profile](https://github.com/peterramaldes/peterramaldes)
 1. Faculdade
 1. [WTF](https://github.com/peterramaldes/wtf)
