@@ -1,4 +1,4 @@
-:newspaper: [Log](log)
+:newspaper: [Log](log) :calendar: [Schedule](schedule)
 
 Olá, me chamo Peter.
 
