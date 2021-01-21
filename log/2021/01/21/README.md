@@ -6,9 +6,13 @@ interessante [rwxrob](https://github.com/rwxrob), como:
   tecnologia
 - Deixar minhas anotações aleatórias publica
 
-Outra coisa que estou querendo para 2021 é criar algumas regras, quero
-procrastinar menos jogando então vou tentar em momentos que faria isso
-(normalmente na parte da noite) dormir.
+Outra coisa que estou querendo para 2021 é criar algumas regras: 
+- Quero procrastinar menos jogando então vou tentar em momentos que
+  faria isso (normalmente na parte da noite) dormir
+- Não faltar academia dois dias seguidos
+- Comer uma dieta saudável
+- Terminar a faculdade :anguished:
+- Utilizar cada vez mais o VIM, Bash e UNIX
 
 Devo nos horários livres trabalhar em alguns projetos:
 1. Faculdade
