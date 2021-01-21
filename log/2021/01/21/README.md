@@ -24,3 +24,8 @@ Nessa ordem de prioridades.
 Houve uma tentativa de criar um blog e escrever algumas coisas sobre
 tech mas não consegui progredir, mas como faço essas anotações tem um
 bom tempo, acredito que isso conseguirei manter.
+
+# Thu 21 Jan 2021 04:57:38 AM -03
+
+Vou também estudar sobre investimentos, estou com uma renda guardada no
+Nubank (rendendo 100% do CDI apenas).
