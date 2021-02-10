@@ -1,3 +1,7 @@
+:house_with_garden: [Home](https://peterramaldes.github.io/peterramaldes)
+:notebook: [Log](log)
+:muscle: [todo](todo)
+
 ## Olá, me chamo Peter.
 
 Acredito que escrever código não serve apenas para ajudar uma ou mais
