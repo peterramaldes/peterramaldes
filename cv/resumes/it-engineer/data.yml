@@ -1,0 +1,98 @@
+Name:     Peter A. Ramaldes
+Role:     Senior Backend Engineer | Java | Payment Systems | Distributed Systems
+Email:    peter.ramaldes@gmail.com
+Web:      www.linkedin.com/in/peterramaldes
+Location: Espírito Santo, Brazil
+
+Mission: |
+  Building reliable, scalable backend systems by understanding problems
+  deeply, asking the right questions, and taking ownership of outcomes —
+  while helping other engineers grow through mentorship, code review, and
+  shared technical knowledge.
+
+Skills:
+- Software Architecture
+- Back-End Web Development
+- System Integration
+- Java
+- Distributed Systems
+- Payment Systems (ACH, RTP)
+- Database Design and Optimization
+- Code Review and Mentoring
+
+Experience:
+
+- Role:     Senior Backend Engineer
+  Entity:   Trustly
+  Started:  May 2023
+  Location: Vitória, Espírito Santo, Brazil
+  Details:
+  - Design and develop backend systems supporting ACH, RTP, and other electronic funds transfer systems
+  - Contribute to system architecture and technical design decisions across backend services, APIs, and databases
+  - Develop and maintain reliable server-side systems for payment processing
+  - Design and optimize databases, queries, and data access to improve system performance and consistency
+  - Identify and resolve backend performance bottlenecks and complex production issues
+  - Conduct code reviews focused on code quality, maintainability, and performance
+  - Mentor and support other engineers through technical discussions, code reviews, and day-to-day problem solving
+
+- Role:     Backend Engineer
+  Entity:   Trustly
+  Started:  May 2021
+  Stopped:  May 2023
+  Location: Vitória, Espírito Santo, Brazil
+  Details:
+  - Developed and maintained backend services supporting Trustly's payment products in the U.S. and European markets
+  - Built clean, maintainable, and reusable backend solutions while balancing technical quality and time-to-market
+  - Developed and maintained integrations between backend services and user-facing applications
+  - Collaborated with engineers and other teams to design and deliver new product capabilities
+
+- Role:     Backend Engineer
+  Entity:   TOTVS
+  Started:  September 2020
+  Stopped:  May 2021
+  Location: Joinville, Santa Catarina, Brazil
+  Details:
+  - Worked on systems integration projects using a no-code approach
+  - Developed solutions for integrating different systems and services
+
+- Role:     Java Developer
+  Entity:   Vixteam Consultoria & Sistemas
+  Started:  November 2018
+  Stopped:  September 2020
+  Location: Joinville, Santa Catarina, Brazil
+  Details:
+  - Led multiple projects involving backend services and third-party integrations
+  - Developed new services and integrations with external systems
+
+- Role:     Java Developer
+  Entity:   Vixteam Consultoria & Sistemas
+  Started:  March 2018
+  Stopped:  November 2018
+  Location: Vitória, Espírito Santo, Brazil
+  Details:
+  - Developed new backend services and third-party integrations
+  - Produced technical specifications and documentation
+
+- Role:     Junior System Analyst
+  Entity:   Alta Rail Technology
+  Started:  November 2017
+  Stopped:  March 2018
+  Location: Vitória, Espírito Santo, Brazil
+  Details:
+  - Provided support for critical railroad systems and legacy software
+  - Performed system deployments and maintenance at client environments
+
+# No public projects currently listed — add as needed.
+Projects: []
+
+Education:
+- "Bachelor's Degree, System Information, Universidade Vila Velha (UVV), 2015-2019"
+- "Systems Development & Analysis, Católica de Santa Catarina - Centro Universitário, 2019-2021"
+
+Languages:
+- Portuguese (Native or Bilingual)
+- English (Professional Working)
+
+Keywords: [Java, Backend Development, Distributed Systems, Payment Systems,
+ACH, RTP, System Architecture, System Integration, API Design,
+Database Optimization, Code Review, Mentoring]
