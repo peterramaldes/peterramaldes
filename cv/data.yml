@@ -1,4 +1,8 @@
 Name:     Peter A. Ramaldes
+Role:     Senior Backend Engineer | Java | Payment Systems | Distributed Systems
+Email:    peter.ramaldes@gmail.com
+Web:      www.linkedin.com/in/peterramaldes
+GitHub:   peterramaldes
 Location: Espírito Santo, Brazil
 
 Mission: |
@@ -17,30 +21,17 @@ Summary: |
   critical. Passionate about mentoring and helping other engineers grow
   through technical discussions, code reviews, and sharing knowledge.
 
-Contact:
-  Email:   peter.ramaldes@gmail.com
-  Web:     www.linkedin.com/in/peterramaldes
-  GitHub:  peterramaldes
+Skills:
+- Software Architecture
+- Back-End Web Development
+- System Integration
+- Java
+- Distributed Systems
+- Payment Systems (ACH, RTP)
+- Database Design and Optimization
+- Code Review and Mentoring
 
-Languages:
-- Portuguese (Native or Bilingual)
-- English (Professional Working)
-
-Education:
-
-- Entity:     Universidade Vila Velha (UVV)
-  Location:   Vila Velha, Espírito Santo, Brazil
-  Credential: Bachelor's Degree, System Information
-  Started:    2015
-  Stopped:    2019
-
-- Entity:     Católica de Santa Catarina - Centro Universitário
-  Location:   Santa Catarina, Brazil
-  Credential: Systems Development & Analysis
-  Started:    2019
-  Stopped:    2021
-
-Employment:
+Experience:
 
 - Role:     Senior Backend Engineer
   Entity:   Trustly
@@ -112,6 +103,18 @@ Employment:
   - Supported and maintained legacy software
   - Monitored and maintained virtual machines
   - Prepared technical documentation and trained users
+
+Education:
+- "Bachelor's Degree, System Information, Universidade Vila Velha (UVV), 2015-2019"
+- "Systems Development & Analysis, Católica de Santa Catarina - Centro Universitário, 2019-2021"
+
+Languages:
+- Portuguese (Native or Bilingual)
+- English (Professional Working)
+
+Keywords: [Java, Backend Development, Distributed Systems, Payment Systems,
+ACH, RTP, System Architecture, System Integration, API Design,
+Database Optimization, Code Review, Mentoring]
 
 # No public projects currently listed — add as needed.
 Projects: []
