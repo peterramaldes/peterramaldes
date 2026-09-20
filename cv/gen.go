@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"html/template"
 	"os"
+	"path/filepath"
 
 	"gopkg.in/yaml.v2"
 )
@@ -46,18 +47,20 @@ func main() {
 	}
 	entries, err := os.ReadDir("tmpl")
 	if err != nil {
+		fmt.Println(err)
 		return
 	}
-	for _, entry := range entries {
-		fmt.Println(entry.Name())
-	}
 
-	// TODO detect tmpl and fail if not found
-	// TODO iterate over tmpl directory and
-	//    if directory build a file matching the name of the directory
-	//    from the files in the directory
-	//    or,
-	//    if a file just build from that file
-	//    make sure to detect hte template/html or template/text based on
-	//    suffix
+	for _, entry := range entries {
+		name := entry.Name()
+		var err error
+		if entry.IsDir() {
+			err = buildFromGlob(name, filepath.Join("tmpl", name, "*.html"), data)
+		} else {
+			err = buildFromFile(name, filepath.Join("tmpl", name), data)
+		}
+		if err != nil {
+			fmt.Println(name, err)
+		}
+	}
 }
