@@ -9,4 +9,3 @@ Based in Espírito Santo, Brazil.
 - Website: [peterramaldes.com](https://peterramaldes.com)
 - LinkedIn: [peterramaldes](https://linkedin.com/in/peterramaldes)
 - Email: [peter.ramaldes@gmail.com](mailto:peter.ramaldes@gmail.com)
-- Resume: [peterramaldes/cv](https://github.com/peterramaldes/cv)
